@@ -1,5 +1,5 @@
 {
-    "name": "trilix/akeneo-events-api-bundle",
+    "name": "calago/akeneo-events-api-bundle",
     "type": "symfony-bundle",
     "description": "Akeneo PIM Events API Bundle",
     "keywords": ["Akeneo", "PIM", "Events", "API"],
@@ -12,7 +12,7 @@
         }
     ],
     "require": {
-        "akeneo/pim-community-dev": "^5.0",
+        "akeneo/pim-community-dev": "^6.0",
         "beberlei/assert": "^3.3",
         "psr/http-client": "^1",
         "guzzlehttp/guzzle": "~6.0"
